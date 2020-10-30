@@ -1,0 +1,17 @@
+C:\Users\Neso\source\repos\Studies2020\Studies2020\bin\Debug\Studije.mdf
+C:\Users\Neso\source\repos\Studies2020\Studies2020\bin\Debug\Studije_log.ldf
+C:\Users\Neso\source\repos\Studies2020\Studies2020\bin\Debug\Studies2020.exe.config
+C:\Users\Neso\source\repos\Studies2020\Studies2020\bin\Debug\Studies2020.exe
+C:\Users\Neso\source\repos\Studies2020\Studies2020\bin\Debug\Studies2020.pdb
+C:\Users\Neso\source\repos\Studies2020\Studies2020\bin\Debug\EntityFramework.dll
+C:\Users\Neso\source\repos\Studies2020\Studies2020\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Neso\source\repos\Studies2020\Studies2020\bin\Debug\EntityFramework.xml
+C:\Users\Neso\source\repos\Studies2020\Studies2020\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Neso\source\repos\Studies2020\Studies2020\obj\Debug\Studies2020.csprojAssemblyReference.cache
+C:\Users\Neso\source\repos\Studies2020\Studies2020\obj\Debug\Studies2020.Form1.resources
+C:\Users\Neso\source\repos\Studies2020\Studies2020\obj\Debug\Studies2020.Properties.Resources.resources
+C:\Users\Neso\source\repos\Studies2020\Studies2020\obj\Debug\Studies2020.csproj.GenerateResource.cache
+C:\Users\Neso\source\repos\Studies2020\Studies2020\obj\Debug\Studies2020.csproj.CopyComplete
+C:\Users\Neso\source\repos\Studies2020\Studies2020\obj\Debug\Studies2020.exe
+C:\Users\Neso\source\repos\Studies2020\Studies2020\obj\Debug\Studies2020.pdb
+C:\Users\Neso\source\repos\Studies2020\Studies2020\obj\Debug\Studies2020.AddStudentForm.resources
